@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# by ..:: crazyjunkie ::.. 2014
+
 def main():
 	def mapi():
 		print("Getting GEO IP")
